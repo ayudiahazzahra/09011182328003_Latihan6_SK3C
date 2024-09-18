@@ -24,4 +24,16 @@
 ![6 4](https://github.com/user-attachments/assets/e2eba739-3a23-40b7-b9bf-99cbe77dba1d)
 
 ## sort: Ini adalah perintah utama, yang mengurutkan baris teks
-## < daftar_direktori.txt: Ini mengalihkan isi file "daftar_direktori.txt" sebagai input ke perintah sort > baru.urut: Ini mengalihkan output dari perintah sort ke file baru bernama "baru.urut"
+## < daftar_direktori.txt: Ini mengalihkan isi file "daftar_direktori.txt" sebagai input ke perintah sort 
+## > baru.urut: Ini mengalihkan output dari perintah sort ke file baru bernama "baru.urut"
+
+# Buatlah direktori latihan6 sebanyak 2 kali dan belokkan standard error ke file rmdirerror.txt.
+
+![6 5](https://github.com/user-attachments/assets/bb6b24d5-0d53-4cd1-98ea-6f711bb8f5f6)
+
+## mkdir latihan6: Perintah ini mencoba membuat sebuah direktori baru bernama "latihan6".
+## 2> rmdirror.txt: Bagian ini mengarahkan output error (stderr, yang ditandai dengan '2') ke file bernama "rmdirror.txt". Jika ada pesan error saat membuat direktori, pesan tersebut akan disimpan dalam file ini alih-alih ditampilkan di layar.
+## ayudiah@ayudiah-VirtualBox:~$ mkdir latihan6 Ini adalah perintah sederhana untuk membuat direktori bernama "latihan6".
+
+#
+
