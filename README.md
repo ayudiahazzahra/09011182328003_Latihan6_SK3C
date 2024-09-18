@@ -96,8 +96,8 @@
 #### Terminal: tty7 (biasanya menunjukkan sesi grafis)
 #### Waktu login: 2024-09-05 15:00
 #### (:0) menunjukkan display grafis lokal
-#### Perintah who menampilkan informasi tentang pengguna yang sedang login.
-#### Perintah-perintah berikutnya memproses output ini, meskipun sebagian besar tidak mengubah isinya secara signifikan.
-#### sort mengurutkan output (meski dalam kasus ini hanya ada satu baris).
-#### pr menambahkan header dengan tanggal dan nomor halaman.
-#### head dan tail digunakan untuk mengambil bagian awal dan akhir output, yang dalam kasus ini menghasilkan seluruh output karena hanya ada sedikit baris.
+### Perintah who menampilkan informasi tentang pengguna yang sedang login.
+### Perintah-perintah berikutnya memproses output ini, meskipun sebagian besar tidak mengubah isinya secara signifikan.
+### sort mengurutkan output (meski dalam kasus ini hanya ada satu baris).
+### pr menambahkan header dengan tanggal dan nomor halaman.
+### head dan tail digunakan untuk mengambil bagian awal dan akhir output, yang dalam kasus ini menghasilkan seluruh output karena hanya ada sedikit baris.
